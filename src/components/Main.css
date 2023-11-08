@@ -1,0 +1,28 @@
+
+body {
+    background-color: #f0f0f0; 
+    font-family: Arial, sans-serif; 
+    margin: 0; /* Remove default body margin */
+    padding: 0; /* Remove default body padding */
+  }
+  
+  .container {
+    max-width: 600px; 
+    margin: 0 auto; /* Center align the container */
+    padding: 20px;
+  }
+  
+  h1 {
+    color: #333; /*  text color */
+  }
+  
+  ul {
+    list-style-type: none; /* Remove list bullets */
+    padding: 0; /* Remove default padding for lists */
+  }
+  
+  li {
+    margin: 10px 0; /* Add margin between list items */
+  }
+  
+  
